@@ -1,0 +1,5 @@
+# Datos de bases de datos y Docker
+docker/mysql/
+docker/config/
+docker/custom/
+docker/plugins/
